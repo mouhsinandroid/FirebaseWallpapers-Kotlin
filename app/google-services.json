@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806932180402",
+    "firebase_url": "https://fir-wallet-bf990.firebaseio.com",
+    "project_id": "fir-wallet-bf990",
+    "storage_bucket": "fir-wallet-bf990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806932180402:android:b84ef78189ecf600a088ab",
+        "android_client_info": {
+          "package_name": "com.mouhsinbourqaiba.android.firebasewallpapers_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806932180402-00ll2sq0v1bap27qtmn1laemqnafdllj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDihOpJhWntmegA5NKxpKQS55pMeA69uTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806932180402-00ll2sq0v1bap27qtmn1laemqnafdllj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
